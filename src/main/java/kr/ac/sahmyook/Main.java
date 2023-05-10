@@ -1,7 +1,0 @@
-package kr.ac.sahmyook;
-
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello world!");
-    }
-}
